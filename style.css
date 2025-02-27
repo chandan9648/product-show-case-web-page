@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
 
 .container {
@@ -87,7 +86,6 @@
     .cardcontainer {
         width: 90%;
         grid-template-columns: repeat(3, 1fr);
-
     }
 }
 
