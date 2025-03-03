@@ -35,7 +35,6 @@
     
     gap: 10px;
     padding-left: 20px;
-
 }
 
 .card {
@@ -80,12 +79,14 @@
     font-size: 1rem;
 }
 
+
 @media (min-width:786px) {
     .cardcontainer {
         width: 90%;
         grid-template-columns: repeat(3, 1fr);
     }
 }
+
 
 @media (min-width: 1024px) {
     .cardcontainer {
