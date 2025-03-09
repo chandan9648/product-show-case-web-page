@@ -70,8 +70,7 @@
 
 }
 .details p {
-    font-size: 1rem;
-    
+    font-size: 1rem;   
 }
 
 .details h3 {
@@ -85,7 +84,6 @@
         grid-template-columns: repeat(3, 1fr);
     }
 }
-
 
 @media (min-width: 1024px) {
     .cardcontainer {
